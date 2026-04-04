@@ -29,12 +29,12 @@ export default function Footer() {
       </div>
 
       <div className="flex flex-col items-center gap-1 py-2">
-      <span className="text-gray-900">
-        Exercise {current} / {TOTAL_EXERCISES}
-      </span>
-      <Link href="/" className="text-gray-600 hover:text-blue-800 hover:underline">
-        Home
-      </Link>
+        <span className="text-gray-900">
+          Exercise {current} / {TOTAL_EXERCISES}
+        </span>
+        <Link href="/" className="text-gray-600 hover:text-blue-800 hover:underline">
+          Home
+        </Link>
       </div>
 
       <div className="flex w-24 justify-end">
