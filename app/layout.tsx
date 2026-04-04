@@ -25,7 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="overflow-x-hidden scroll-smooth">
+    <html lang="en" className="overflow-x-hidden overflow-y-auto scroll-smooth">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <main className="flex min-h-screen flex-grow flex-col">{children}</main>
         <Footer />
