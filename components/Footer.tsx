@@ -16,7 +16,7 @@ export default function Footer() {
   const hasNext = current < TOTAL_EXERCISES;
 
   return (
-    <footer className="fixed bottom-0 left-0 flex h-14 w-full items-center justify-between border-t border-gray-200 bg-gradient-to-r from-orange-50 via-white to-teal-100 px-6">
+    <footer className="fixed bottom-0 left-0 flex h-14 w-full items-center justify-between border-t-2 border-gray-800 bg-gradient-to-r from-orange-50 via-white to-teal-100 px-6">
       <div className="w-24">
         {hasPrev && (
           <Link
@@ -28,9 +28,14 @@ export default function Footer() {
         )}
       </div>
 
-      <span className="text-sm text-gray-500">
+      <div className="flex flex-col items-center gap-1 py-2">
+      <span className="text-gray-900">
         Exercise {current} / {TOTAL_EXERCISES}
       </span>
+      <Link href="/" className="text-gray-600 hover:text-blue-800 hover:underline">
+        Home
+      </Link>
+      </div>
 
       <div className="flex w-24 justify-end">
         {hasNext && (
