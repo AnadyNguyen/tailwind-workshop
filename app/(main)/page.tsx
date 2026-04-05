@@ -21,6 +21,16 @@ export default function Home() {
               Exercise 3 - Padding and Margin
             </a>
           </li>
+          <li className="text-lg text-gray-700">
+            <a href="/exercise/4" className="text-blue-800 hover:underline">
+              Exercise 4 - Flexbox Demo
+            </a>
+          </li>
+          <li className="text-lg text-gray-700">
+            <a href="/exercise/5" className="text-blue-800 hover:underline">
+              Exercise 5 - Card Design
+            </a>
+          </li>
         </ol>
       </main>
       <div className="flex flex-col items-center justify-center py-4">
