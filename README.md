@@ -1,4 +1,7 @@
-# Tailwind Workshop
+<div id="header" align="center">
+    <img src="https://github.com/user-attachments/assets/a97a7a24-b2f0-456f-97ee-f5df0b3e8555" width="500px" />
+    <h1>Tailwind Workshop</h1>
+</div>
 
 This is a workshop created by Daniel Tsivkovski and Dylan Ravel for Chapman Computer Science Club. Together, we teach how to use [Tailwind CSS](https://tailwindcss.com/) for styling and creating amazing projects. We hope you all enjoy!
 
