@@ -1,6 +1,6 @@
 # Tailwind Workshop
 
-This is a workshop created by Daniel Tsivkovski and Dylan Ravel for Chapman Computer Science Club. Together, we teach how to use [Tailwind CSS](https://tailwindcss.com/) for styling and creating amazing projects. We hope you all enjoy.
+This is a workshop created by Daniel Tsivkovski and Dylan Ravel for Chapman Computer Science Club. Together, we teach how to use [Tailwind CSS](https://tailwindcss.com/) for styling and creating amazing projects. We hope you all enjoy!
 
 ## What is Tailwind and why should I learn it?
 
