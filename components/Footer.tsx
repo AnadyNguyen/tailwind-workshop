@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ChevronLeftIcon, ChevronRightIcon, HomeIcon } from "lucide-react";
 
-const TOTAL_EXERCISES = 5;
+const TOTAL_EXERCISES = 7;
 
 export default function Footer() {
   const pathname = usePathname();

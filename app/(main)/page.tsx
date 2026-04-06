@@ -31,6 +31,11 @@ export default function Home() {
               Exercise 5 - Card Design
             </a>
           </li>
+          <li className="text-lg text-gray-700">
+            <a href="/exercise/6" className="text-blue-800 hover:underline">
+              Exercise 6 - Responsiveness
+            </a>
+          </li>
         </ol>
       </main>
       <div className="flex flex-col items-center justify-center py-4">
