@@ -48,8 +48,8 @@ export default function Home() {
             className="text-blue-800 hover:underline"
           >
             MIT License
-          </Link>
-          {" "}with license notice retained.
+          </Link>{" "}
+          with license notice retained.
         </p>
         <Link href="https://github.com/dtsivkovski/tailwind-workshop">
           <SiGithub className="text-gray-700 transition-colors duration-300 hover:text-black" />
