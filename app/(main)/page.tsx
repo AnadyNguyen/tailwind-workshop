@@ -41,14 +41,14 @@ export default function Home() {
             Dylan Ravel
           </Link>{" "}
           in association with Chapman Computer Science Club. <br />
-          Free to use and modify with attribution under the{" "}
+          Free to use and modify under the{" "}
           <Link
             href="https://github.com/dtsivkovski/tailwind-workshop/blob/main/LICENSE"
             className="text-blue-800 hover:underline"
           >
             MIT License
           </Link>
-          .
+          {" "}with license notice retained.
         </p>
       </footer>
     </div>
