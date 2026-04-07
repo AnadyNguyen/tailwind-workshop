@@ -15,4 +15,4 @@ The slides will be posted and linked here once the workshop has concluded for an
 
 ## License
 
-This software and slideshow presentation is governed by the [MIT License](https://github.com/dtsivkovski/tailwind-workshop/blob/main/LICENSE). You are free to use, modify, and distribute this software, provided the license and copyright notice are retained. 
+This software and slideshow presentation is governed by the [MIT License](https://github.com/dtsivkovski/tailwind-workshop/blob/main/LICENSE). You are free to use, modify, and distribute this software, provided the license and copyright notice are retained.
