@@ -15,7 +15,7 @@ export default function ExerciseSeven() {
                 height={0}
                 unoptimized
                 alt="An Astronaut"
-                className="h-40 w-full rounded-t-3xl object-cover"
+                className="h-40 w-full rounded-t-3xl object-cover hover:scale-[500%]"
               />
               <div className="absolute left-2 top-2 flex flex-row items-center gap-1 p-1 text-gray-100">
                 <HeartIcon className="h-6 w-6 fill-gray-100" />

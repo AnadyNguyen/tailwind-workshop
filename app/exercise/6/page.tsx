@@ -8,7 +8,7 @@ export default function ExerciseTwo() {
       <main className="flex w-full flex-col items-center justify-center gap-4">
         {/* Edit the classes BELOW using breakpoints */}
         <div className="flex w-full flex-col border border-black">
-          <div className="grid w-full grid-cols-4 items-center gap-2 p-4">
+          <div className="grid w-full grid-cols-2 md:grid-cols-4 items-center gap-2 p-4">
             {/* Edit the classes ABOVE using breakpoints. No need to touch the rest below */}
             {cats.map((cat) =>
               Array.from({ length: 4 }, (_, i) => {
